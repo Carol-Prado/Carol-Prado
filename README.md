@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @Carol-Prado
-- and I’m interested 👀 in technology in general.
+- and I’m interested 👀 in new technologies in general.
 - 🌱 I’m currently learning programming and 💞️ looking to collaborate on Java and JavaScript projects.
 - 📫 You can find me on LinkedIn: https://www.linkedin.com/in/carolina-franco-do-prado-315a4569
 
